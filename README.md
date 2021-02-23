@@ -1,5 +1,5 @@
 # eventhubexample
-this example is to simulate iot data in event hub and recieving from event hub with checkpoint.
+this example is to simulate iot data and batch data in eventhub and recieving from event hub with checkpoint.
 files:
 
 iotsend.py --- to simulate IOT sensors
